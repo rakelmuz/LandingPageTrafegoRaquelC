@@ -90,14 +90,14 @@ html.js .dw.io:not(.in) *{stroke-dashoffset:1}
 /* topo */
 .top{position:sticky;top:env(safe-area-inset-top,0px);z-index:20;background:color-mix(in srgb,var(--bg) 88%,transparent);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
 .top-in{display:flex;align-items:center;gap:22px;min-height:70px}
-.brand{display:inline-flex;flex-direction:column;align-items:flex-start;gap:4px;text-decoration:none;margin-right:auto}
-.brand .logo{height:46px;width:auto;display:block}
+.brand{display:inline-flex;flex-direction:column;align-items:flex-start;gap:3px;text-decoration:none;margin-right:auto}
+.brand .logo{height:42px;width:auto;display:block}
 .foot .brand .logo{height:40px}
 .logo-escuro{display:none!important}
 :root[data-theme="dark"] .logo-claro{display:none!important}
 :root[data-theme="dark"] .logo-escuro{display:block!important}
 @media (prefers-color-scheme: dark){:root:not([data-theme="light"]) .logo-claro{display:none!important}:root:not([data-theme="light"]) .logo-escuro{display:block!important}}
-.brand small{font-size:9.5px;font-weight:600;letter-spacing:.2em;text-transform:uppercase;color:var(--ink-soft);line-height:1.2}
+.brand small{font-size:9px;font-weight:700;letter-spacing:.16em;text-transform:uppercase;color:var(--ink-soft);line-height:1.2;white-space:nowrap}
 .brand .gline{width:100%;min-width:34px;height:3px}
 .nav{display:flex;gap:24px;font-weight:600;font-size:14.5px}
 .nav a{text-decoration:none;position:relative;color:var(--ink-soft);transition:color .2s}
@@ -361,7 +361,8 @@ footer{padding-block:36px;border-top:1px solid var(--line)}
   .hero-ctas .btn{font-size:14.5px;padding:15px 14px}
   .chips li{font-size:12.5px;padding:5px 11px 5px 9px}
   .label{letter-spacing:.24em}
-  .brand .logo{height:40px}
+  .brand .logo{height:36px}
+  .brand small{font-size:7.5px;letter-spacing:.1em}
   .top-in{min-height:62px;gap:10px}
   .theme{width:36px;height:36px}
   .top .btn{padding:9px 14px;font-size:13.5px}

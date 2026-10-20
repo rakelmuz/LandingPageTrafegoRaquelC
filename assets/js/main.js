@@ -68,11 +68,16 @@
   var form = document.getElementById('lead'), send = document.getElementById('send'), hint = document.getElementById('send-hint');
   function val(id){ var el = document.getElementById(id); return el ? el.value.trim() : ''; }
   function build(){
-    var nome = val('f-nome'), cidade = val('f-cidade'), neg = val('f-negocio'), tipo = val('f-tipo'), txt = val('f-msg');
-    var s = 'Olá! ' + (nome ? 'Meu nome é ' + nome + '. ' : '') +
-      'Tenho ' + (neg ? neg + ', ' : '') + tipo + (cidade ? ' em ' + cidade : '') + '. ' +
-      (txt ? txt.replace(/\s+$/,'') + (/[.!?]$/.test(txt) ? ' ' : '. ') : '') +
-      'Gostaria de conversar sobre tráfego pago.';
+    var nome = val('f-nome'), cidade = val('f-cidade'), neg = val('f-negocio'), txt = val('f-msg');
+    var sel = document.getElementById('f-tipo'), tipo = sel && sel.selectedOptions[0] ? sel.selectedOptions[0].textContent.trim() : '';
+    var linhas = [];
+    if (nome) linhas.push('*Nome:* ' + nome);
+    if (cidade) linhas.push('*Cidade:* ' + cidade);
+    if (neg) linhas.push('*Ramo do negócio:* ' + neg);
+    if (tipo) linhas.push('*Tipo de negócio:* ' + tipo);
+    var s = 'Olá! Vim pelo site e gostaria de conversar sobre tráfego pago.';
+    if (linhas.length) s += '\n\n' + linhas.join('\n');
+    if (txt) s += '\n\n*Mensagem:*\n' + txt;
     if (WHATSAPP){
       send.href = 'https://wa.me/' + WHATSAPP + '?text=' + encodeURIComponent(s);
     } else {
