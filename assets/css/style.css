@@ -305,6 +305,9 @@ html.js .funnel.io:not(.in) .bar .lbl{color:var(--ink)}
 .contact-left{display:flex;flex-direction:column;gap:20px;min-width:0}
 .contact-left p{color:var(--on-dark-soft);max-width:46ch}
 .contact-left p b{color:var(--on-dark)}
+.insta{display:inline-flex;align-items:center;gap:10px;align-self:flex-start;color:var(--on-dark);text-decoration:none;font-weight:700;font-size:16px;padding:10px 18px 10px 12px;border:1px solid rgba(242,243,245,.22);border-radius:999px;transition:background .2s,border-color .2s,transform .2s}
+.insta:hover{background:rgba(242,243,245,.08);border-color:rgba(242,243,245,.5);transform:translateY(-2px)}
+.insta svg{flex:none}
 .contact .script{color:var(--on-dark);font-size:clamp(32px,3.4vw,42px)}
 .form{background:var(--surface);color:var(--ink);border-radius:20px;padding:clamp(20px,3vw,30px);display:grid;gap:16px;min-width:0}
 .field{display:grid;gap:6px}
