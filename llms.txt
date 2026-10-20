@@ -1,4 +1,4 @@
-# Raquel Fátima · Tráfego Pago
+# RF · Raquel Fátima | Gestão de Tráfego Pago
 
 > Raquel Fátima é estrategista de tráfego pago. Ela cria e otimiza anúncios no Meta Ads (Instagram e Facebook), no Google Ads e no Google Meu Negócio para negócios locais e e-commerces, e desenvolve sites, landing pages, CRMs e automações que transformam cliques em clientes. Atende online, em todo o Brasil, com proposta sob medida.
 
@@ -6,11 +6,11 @@ Raquel não é agência de marketing digital e não faz gestão de redes sociais
 
 ## Serviços
 
-- [Meta Ads (Instagram e Facebook)](https://SEU-DOMINIO/#servicos): campanhas de mensagens no WhatsApp, cadastros e vendas, com testes de criativo e Pixel e API de Conversões configurados. Ideal para clínicas, lojas, serviços e e-commerce.
-- [Google Ads](https://SEU-DOMINIO/#servicos): Rede de Pesquisa, Performance Max, YouTube e Display para quem já está procurando o produto ou serviço.
-- [Google Meu Negócio](https://SEU-DOMINIO/#servicos): otimização do Perfil da Empresa no Google (Google Maps), com categorias, fotos, avaliações e campanhas de visita à loja e ligações.
-- [Sites e landing pages](https://SEU-DOMINIO/#servicos): páginas rápidas, focadas em uma ação, com SEO, dados estruturados e eventos de conversão.
-- [CRM e automações](https://SEU-DOMINIO/#servicos): CRM sob medida com funil (lead, agendou, compareceu, fechou), integração com a API de Conversões da Meta, follow-up e relatório por campanha.
+- [Meta Ads (Instagram e Facebook)](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): campanhas de mensagens no WhatsApp, cadastros e vendas, com testes de criativo e Pixel e API de Conversões configurados. Ideal para clínicas, lojas, serviços e e-commerce.
+- [Google Ads](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): Rede de Pesquisa, Performance Max, YouTube e Display para quem já está procurando o produto ou serviço.
+- [Google Meu Negócio](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): otimização do Perfil da Empresa no Google (Google Maps), com categorias, fotos, avaliações e campanhas de visita à loja e ligações.
+- [Sites e landing pages](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): páginas rápidas, focadas em uma ação, com SEO, dados estruturados e eventos de conversão.
+- [CRM e automações](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): CRM sob medida com funil (lead, agendou, compareceu, fechou), integração com a API de Conversões da Meta, follow-up e relatório por campanha.
 
 ## Para quem
 
@@ -27,13 +27,16 @@ Raquel não é agência de marketing digital e não faz gestão de redes sociais
 
 ## Perguntas frequentes
 
-- O que faz uma gestora de tráfego pago? Planeja, cria e ajusta os anúncios pagos de uma empresa no Instagram, no Facebook e no Google, e acompanha quanto custou cada cliente.
-- Quanto preciso investir? Dá para começar com pouco. A verba de anúncios é paga direto na Meta ou no Google e é separada do valor do serviço.
-- Em quanto tempo aparecem resultados? Os primeiros contatos costumam chegar nos primeiros dias; os resultados ficam mais estáveis a partir do primeiro mês de ajustes.
-- Atende outras cidades? Sim, todo o trabalho é online, em todo o Brasil.
-- Quanto custa? A proposta é sob medida para cada negócio, combinada no contato.
+- O que faz uma gestora de tráfego pago? Planejamos, criamos e otimizamos anúncios no Instagram, Facebook e Google para ajudar empresas a atrair clientes e gerar oportunidades de negócio. Acompanhamos o desempenho das campanhas e usamos os dados para identificar o que pode ser melhorado.
+- Quanto preciso investir em anúncios? O investimento depende dos objetivos, do mercado e do potencial de cada negócio. O valor destinado aos anúncios é pago diretamente às plataformas, separado do serviço de gestão. Conversamos sobre suas metas para entender qual investimento faz sentido para começar.
+- Em quanto tempo aparecem os resultados? O prazo varia conforme o negócio, o investimento, a oferta e o público. Algumas campanhas geram contatos rapidamente, enquanto outras precisam de mais testes e ajustes. Acompanhamos os dados desde o início para identificar oportunidades de melhoria e direcionar as campanhas para os melhores resultados possíveis.
+- Vocês também fazem postagens no Instagram? Nosso foco é o tráfego pago, não a gestão de redes sociais. Além de planejar e gerenciar anúncios, orientamos a criação dos materiais publicitários e podemos trabalhar com páginas, rastreamento, CRM e automações para apoiar o desempenho das campanhas.
+- Meu negócio precisa ter um site para anunciar? Não necessariamente. Dependendo do negócio e do objetivo da campanha, podemos direcionar os anúncios para o WhatsApp, por exemplo. Em outros casos, um site ou uma página de destino pode ajudar a apresentar melhor a oferta e facilitar a conversão. Avaliamos qual estrutura faz mais sentido para sua empresa.
+- Qual é a diferença entre Meta Ads e Google Ads? O Meta Ads permite alcançar pessoas no Instagram e no Facebook com base em características, interesses e comportamentos. Já o Google Ads pode colocar sua empresa em destaque quando alguém pesquisa por produtos ou serviços relacionados ao seu negócio. A escolha depende do público, dos objetivos e da estratégia da campanha.
+- Vocês atendem negócios de outras cidades? Sim! Como o trabalho é realizado online, atendemos negócios locais e lojas virtuais de diferentes regiões do Brasil. A estratégia é definida de acordo com o mercado e os objetivos de cada empresa.
+- Quanto custa o serviço de gestão de tráfego pago? O investimento varia conforme as necessidades, os objetivos e a estrutura de cada projeto. Para entender o que sua empresa precisa e apresentar uma proposta adequada, precisamos conhecer um pouco melhor o seu negócio. Entre em contato para conversarmos.
 
 ## Contato
 
 - [Instagram @raquelcfatima](https://www.instagram.com/raquelcfatima/)
-- [Formulário de contato no site](https://SEU-DOMINIO/#contato)
+- [Formulário de contato no site](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#contato)

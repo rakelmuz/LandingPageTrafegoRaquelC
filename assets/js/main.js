@@ -2,27 +2,12 @@
 (function(){
   /* Coloque aqui o seu WhatsApp com DDI e DDD, só números (ex.: "5535999999999").
      Enquanto estiver vazio, o botão abre o direct do Instagram. */
-  var WHATSAPP = "";
+  var WHATSAPP = "5535992072879";
 
   var root = document.documentElement;
   var reduce = window.matchMedia && matchMedia('(prefers-reduced-motion: reduce)').matches;
 
   document.querySelectorAll('.dw path,.dw line,.dw circle,.dw rect,.dw ellipse,.dw polyline').forEach(function(el){ el.setAttribute('pathLength','1'); });
-
-  /* modo de leitura */
-  var KEY = 'rq-modo';
-  function setMode(m, anim){
-    if (m === 'tecnico') root.setAttribute('data-mode','tecnico'); else root.removeAttribute('data-mode');
-    document.querySelectorAll('[data-set-mode]').forEach(function(b){ b.setAttribute('aria-pressed', String(b.getAttribute('data-set-mode') === m)); });
-    if (anim && !reduce){ root.classList.remove('swap'); void root.offsetWidth; root.classList.add('swap'); setTimeout(function(){ root.classList.remove('swap'); }, 450); }
-    try { localStorage.setItem(KEY, m); } catch(e){}
-  }
-  var saved = 'leigo';
-  try { saved = localStorage.getItem(KEY) || 'leigo'; } catch(e){}
-  setMode(saved, false);
-  document.querySelectorAll('[data-set-mode]').forEach(function(b){
-    b.addEventListener('click', function(){ setMode(b.getAttribute('data-set-mode'), true); });
-  });
 
   /* tema claro / escuro */
   var themeBtn = document.getElementById('theme-btn');
@@ -79,21 +64,19 @@
     window.addEventListener('resize', home);
   }
 
-  /* formulário → mensagem pronta */
-  var form = document.getElementById('lead'), msg = document.getElementById('msg'), send = document.getElementById('send'), hint = document.getElementById('send-hint');
+  /* formulário → mensagem pronta no WhatsApp */
+  var form = document.getElementById('lead'), send = document.getElementById('send'), hint = document.getElementById('send-hint');
   function val(id){ var el = document.getElementById(id); return el ? el.value.trim() : ''; }
   function build(){
-    var nome = val('f-nome'), cidade = val('f-cidade'), neg = val('f-negocio'), tipo = val('f-tipo');
-    var ints = Array.prototype.slice.call(form.querySelectorAll('.opts input:checked')).map(function(i){ return i.value; });
-    var lista = ints.length > 1 ? ints.slice(0,-1).join(', ') + ' e ' + ints[ints.length-1] : (ints[0] || 'tráfego pago');
-    var s = 'Oi, Raquel! ' + (nome ? 'Meu nome é ' + nome + '. ' : '') +
+    var nome = val('f-nome'), cidade = val('f-cidade'), neg = val('f-negocio'), tipo = val('f-tipo'), txt = val('f-msg');
+    var s = 'Olá! ' + (nome ? 'Meu nome é ' + nome + '. ' : '') +
       'Tenho ' + (neg ? neg + ', ' : '') + tipo + (cidade ? ' em ' + cidade : '') + '. ' +
-      'Tenho interesse em ' + lista + '. Podemos conversar?';
-    msg.textContent = s;
+      (txt ? txt.replace(/\s+$/,'') + (/[.!?]$/.test(txt) ? ' ' : '. ') : '') +
+      'Gostaria de conversar sobre tráfego pago.';
     if (WHATSAPP){
       send.href = 'https://wa.me/' + WHATSAPP + '?text=' + encodeURIComponent(s);
-      send.textContent = 'Enviar no WhatsApp';
-      hint.textContent = 'O WhatsApp abre com a mensagem pronta. É só enviar.';
+    } else {
+      hint.textContent = 'Sua mensagem será preparada e copiada automaticamente. Depois, é só colar no direct do Instagram e enviar.';
     }
     return s;
   }
