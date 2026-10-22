@@ -329,7 +329,35 @@ html.js .funnel.io:not(.in) .bar .lbl{color:var(--ink)}
 @media (max-width:880px){.contact-grid{grid-template-columns:1fr}}
 @media (max-width:480px){.two{grid-template-columns:1fr}}
 
+/* tecnologia e integrações */
+.tech{margin-top:20px;display:grid;grid-template-columns:minmax(0,1.15fr) minmax(0,.85fr);gap:clamp(20px,4vw,48px);align-items:center;background:var(--bg);border:1px solid var(--line);border-radius:var(--r-xl,18px);padding:clamp(22px,3vw,32px)}
+.tech-txt{display:flex;flex-direction:column;gap:12px;min-width:0}
+.tech-txt p:not(.label){color:var(--ink-soft);max-width:62ch}
+.tech-tags{list-style:none;margin:0;padding:0;display:flex;flex-wrap:wrap;gap:8px}
+.tech-tags li{font-size:13.5px;font-weight:600;background:var(--surface);border:1px solid var(--line);border-radius:999px;padding:7px 13px}
+@media (max-width:760px){.tech{grid-template-columns:1fr}}
 footer{padding-block:36px;border-top:1px solid var(--line)}
+.foot-links{display:flex;flex-wrap:wrap;gap:8px 22px;margin-top:18px;padding-top:16px;border-top:1px solid var(--line);font-size:13.5px}
+.foot-links a{color:var(--ink-soft);text-decoration:underline;text-underline-offset:3px}
+.foot-links a:hover{color:var(--blue)}
+/* páginas legais */
+.legal-main{padding-block:clamp(28px,4vw,52px) clamp(48px,6vw,80px)}
+.legal{max-width:780px;display:flex;flex-direction:column;gap:14px}
+.legal h1{font-size:clamp(34px,4.6vw,52px);line-height:1.06}
+.legal .updated{font-size:14px;color:var(--ink-soft)}
+.legal h2{font-size:clamp(20px,2.2vw,24px);margin-top:22px;scroll-margin-top:90px}
+.legal h3{font-size:17px;margin-top:6px}
+.legal p,.legal li{color:var(--ink-soft);line-height:1.7}
+.legal strong{color:var(--ink)}
+.legal ul{margin:0;padding-left:20px;display:grid;gap:6px}
+.legal a{color:var(--blue-ink,var(--blue));overflow-wrap:anywhere}
+.legal .toc{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px 20px}
+.legal .toc ol{margin:8px 0 0;padding-left:22px;columns:2;column-gap:32px}
+.legal .toc li{line-height:1.5;margin-bottom:5px;break-inside:avoid}
+.legal .box{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:16px 20px}
+.ph{background:color-mix(in srgb,var(--g-yellow) 38%,transparent);color:var(--ink);padding:0 5px;border-radius:4px;font-weight:600}
+.top-back{white-space:nowrap}
+@media (max-width:560px){.legal .toc ol{columns:1}}
 .foot{display:flex;flex-wrap:wrap;justify-content:space-between;gap:16px;align-items:center;font-size:14px;color:var(--ink-soft)}
 .foot .brand{margin:0}
 

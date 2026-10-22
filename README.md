@@ -12,6 +12,8 @@ assets/img/           logo, foto e ícones do site
 robots.txt            orientação para o Google
 sitemap.xml           mapa do site para o Google
 llms.txt              resumo do site para IAs (ChatGPT, Gemini, Perplexity)
+privacy.html          Política de Privacidade
+terms.html            Termos de Serviço
 ```
 
 ## Antes de publicar

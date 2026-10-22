@@ -12,6 +12,10 @@ Raquel não é agência de marketing digital e não faz gestão de redes sociais
 - [Sites e landing pages](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): páginas rápidas, focadas em uma ação, com SEO, dados estruturados e eventos de conversão.
 - [CRM e automações](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): CRM sob medida com funil (lead, agendou, compareceu, fechou), integração com a API de Conversões da Meta, follow-up e relatório por campanha.
 
+## Tecnologia e integrações
+
+Raquel Fátima – Tech Provider também desenvolve e integra ferramentas que ajudam empresas a organizar os contatos gerados pelas campanhas, automatizar processos e acompanhar a jornada dos clientes: CRM sob medida, integrações com a WhatsApp Business Platform, API de Conversões da Meta, APIs e webhooks, automações e rastreamento (Pixel, GTM, GA4).
+
 ## Para quem
 
 - Negócios locais: clínicas, consultórios, lojas, restaurantes, academias, salões e prestadores de serviço.
@@ -35,6 +39,11 @@ Raquel não é agência de marketing digital e não faz gestão de redes sociais
 - Qual é a diferença entre Meta Ads e Google Ads? O Meta Ads permite alcançar pessoas no Instagram e no Facebook com base em características, interesses e comportamentos. Já o Google Ads pode colocar sua empresa em destaque quando alguém pesquisa por produtos ou serviços relacionados ao seu negócio. A escolha depende do público, dos objetivos e da estratégia da campanha.
 - Vocês atendem negócios de outras cidades? Sim! Como o trabalho é realizado online, atendemos negócios locais e lojas virtuais de diferentes regiões do Brasil. A estratégia é definida de acordo com o mercado e os objetivos de cada empresa.
 - Quanto custa o serviço de gestão de tráfego pago? O investimento varia conforme as necessidades, os objetivos e a estrutura de cada projeto. Para entender o que sua empresa precisa e apresentar uma proposta adequada, precisamos conhecer um pouco melhor o seu negócio. Entre em contato para conversarmos.
+
+## Documentos
+
+- [Política de Privacidade](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/privacy.html)
+- [Termos de Serviço](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/terms.html)
 
 ## Contato
 
