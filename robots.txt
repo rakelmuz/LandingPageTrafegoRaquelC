@@ -1,4 +1,19 @@
+# Buscadores e assistentes de IA são bem-vindos
 User-agent: *
 Allow: /
 
-Sitemap: https://rakelmuz.github.io/LandingPageTrafegoRaquelC/sitemap.xml
+# IAs (busca e respostas)
+User-agent: GPTBot
+User-agent: OAI-SearchBot
+User-agent: ChatGPT-User
+User-agent: ClaudeBot
+User-agent: Claude-SearchBot
+User-agent: Claude-User
+User-agent: PerplexityBot
+User-agent: Perplexity-User
+User-agent: Google-Extended
+User-agent: Applebot-Extended
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://trafegopagocomraquel.com.br/sitemap.xml

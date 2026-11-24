@@ -66,6 +66,7 @@
 
   /* formulário → mensagem pronta no WhatsApp */
   var form = document.getElementById('lead'), send = document.getElementById('send'), hint = document.getElementById('send-hint');
+  if (!form || !send) return;
   function val(id){ var el = document.getElementById(id); return el ? el.value.trim() : ''; }
   function build(){
     var nome = val('f-nome'), cidade = val('f-cidade'), neg = val('f-negocio'), txt = val('f-msg');

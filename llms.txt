@@ -1,16 +1,21 @@
-# RF · Raquel Fátima | Gestão de Tráfego Pago
+# Raquel Fátima · Gestora de Tráfego Pago (RF)
 
-> Raquel Fátima é estrategista de tráfego pago. Ela cria e otimiza anúncios no Meta Ads (Instagram e Facebook), no Google Ads e no Google Meu Negócio para negócios locais e e-commerces, e desenvolve sites, landing pages, CRMs e automações que transformam cliques em clientes. Atende online, em todo o Brasil, com proposta sob medida.
+> Raquel Fátima é gestora de tráfego pago. Ela cria e otimiza anúncios no Meta Ads (Instagram e Facebook), no Google Ads e no Google Meu Negócio para clínicas, negócios locais e e-commerces, e desenvolve sites, landing pages, CRMs e automações que transformam cliques em clientes. Atende online, em todo o Brasil, com proposta sob medida.
 
 Raquel não é agência de marketing digital e não faz gestão de redes sociais (não posta no Instagram do cliente, não responde comentários e não cria logo ou identidade visual). O foco dela é mídia paga de performance e a estrutura de conversão: páginas, rastreamento, CRM e automações.
 
 ## Serviços
 
-- [Meta Ads (Instagram e Facebook)](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): campanhas de mensagens no WhatsApp, cadastros e vendas, com testes de criativo e Pixel e API de Conversões configurados. Ideal para clínicas, lojas, serviços e e-commerce.
-- [Google Ads](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): Rede de Pesquisa, Performance Max, YouTube e Display para quem já está procurando o produto ou serviço.
-- [Google Meu Negócio](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): otimização do Perfil da Empresa no Google (Google Maps), com categorias, fotos, avaliações e campanhas de visita à loja e ligações.
-- [Sites e landing pages](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): páginas rápidas, focadas em uma ação, com SEO, dados estruturados e eventos de conversão.
-- [CRM e automações](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#servicos): CRM sob medida com funil (lead, agendou, compareceu, fechou), integração com a API de Conversões da Meta, follow-up e relatório por campanha.
+- [Meta Ads (Instagram e Facebook)](https://trafegopagocomraquel.com.br/#servicos): campanhas de mensagens no WhatsApp, cadastros e vendas, com testes de criativo e Pixel e API de Conversões configurados. Ideal para clínicas, lojas, serviços e e-commerce.
+- [Google Ads](https://trafegopagocomraquel.com.br/#servicos): Rede de Pesquisa, Performance Max, YouTube e Display para quem já está procurando o produto ou serviço.
+- [Google Meu Negócio](https://trafegopagocomraquel.com.br/#servicos): otimização do Perfil da Empresa no Google (Google Maps), com categorias, fotos, avaliações e campanhas de visita à loja e ligações.
+- [Sites e landing pages](https://trafegopagocomraquel.com.br/#servicos): páginas rápidas, focadas em uma ação, com SEO, dados estruturados e eventos de conversão.
+- [CRM e automações](https://trafegopagocomraquel.com.br/#servicos): CRM sob medida com funil (lead, agendou, compareceu, fechou), integração com a API de Conversões da Meta, follow-up e relatório por campanha.
+
+## Tráfego pago para clínicas e consultórios
+
+- [Tráfego pago para clínicas](https://trafegopagocomraquel.com.br/trafego-pago-para-clinicas/): anúncios no Meta Ads e no Google Ads que levam pacientes da região ao WhatsApp da clínica, Google Meu Negócio, páginas por tratamento e CRM com lembretes para reduzir faltas. Rastreamento até o agendamento e o fechamento. Anúncios dentro das regras de publicidade do CFO e do CFM.
+- Raquel atende no dia a dia clínicas odontológicas e laboratório de prótese.
 
 ## Tecnologia e integrações
 
@@ -31,21 +36,36 @@ Raquel Fátima – Tech Provider também desenvolve e integra ferramentas que aj
 
 ## Perguntas frequentes
 
-- O que faz uma gestora de tráfego pago? Planejamos, criamos e otimizamos anúncios no Instagram, Facebook e Google para ajudar empresas a atrair clientes e gerar oportunidades de negócio. Acompanhamos o desempenho das campanhas e usamos os dados para identificar o que pode ser melhorado.
-- Quanto preciso investir em anúncios? O investimento depende dos objetivos, do mercado e do potencial de cada negócio. O valor destinado aos anúncios é pago diretamente às plataformas, separado do serviço de gestão. Conversamos sobre suas metas para entender qual investimento faz sentido para começar.
-- Em quanto tempo aparecem os resultados? O prazo varia conforme o negócio, o investimento, a oferta e o público. Algumas campanhas geram contatos rapidamente, enquanto outras precisam de mais testes e ajustes. Acompanhamos os dados desde o início para identificar oportunidades de melhoria e direcionar as campanhas para os melhores resultados possíveis.
-- Vocês também fazem postagens no Instagram? Nosso foco é o tráfego pago, não a gestão de redes sociais. Além de planejar e gerenciar anúncios, orientamos a criação dos materiais publicitários e podemos trabalhar com páginas, rastreamento, CRM e automações para apoiar o desempenho das campanhas.
-- Meu negócio precisa ter um site para anunciar? Não necessariamente. Dependendo do negócio e do objetivo da campanha, podemos direcionar os anúncios para o WhatsApp, por exemplo. Em outros casos, um site ou uma página de destino pode ajudar a apresentar melhor a oferta e facilitar a conversão. Avaliamos qual estrutura faz mais sentido para sua empresa.
-- Qual é a diferença entre Meta Ads e Google Ads? O Meta Ads permite alcançar pessoas no Instagram e no Facebook com base em características, interesses e comportamentos. Já o Google Ads pode colocar sua empresa em destaque quando alguém pesquisa por produtos ou serviços relacionados ao seu negócio. A escolha depende do público, dos objetivos e da estratégia da campanha.
-- Vocês atendem negócios de outras cidades? Sim! Como o trabalho é realizado online, atendemos negócios locais e lojas virtuais de diferentes regiões do Brasil. A estratégia é definida de acordo com o mercado e os objetivos de cada empresa.
-- Quanto custa o serviço de gestão de tráfego pago? O investimento varia conforme as necessidades, os objetivos e a estrutura de cada projeto. Para entender o que sua empresa precisa e apresentar uma proposta adequada, precisamos conhecer um pouco melhor o seu negócio. Entre em contato para conversarmos.
+- O que faz uma gestora de tráfego pago? A gestora de tráfego pago planeja, cria e otimiza anúncios pagos no Instagram, no Facebook e no Google para que o negócio receba mais contatos e vendas. Na prática, ela define o público, monta as campanhas, orienta os criativos, acompanha os números toda semana e ajusta o que não está dando resultado.
+- Quanto preciso investir em anúncios? Não existe um valor único: o investimento depende da sua meta de contatos e do custo por contato no seu mercado. Esse valor é pago direto às plataformas (Meta e Google), separado do serviço de gestão. Na primeira conversa olhamos sua meta e definimos um valor para começar e testar.
+- Em quanto tempo aparecem os resultados? Os primeiros contatos podem chegar logo nas primeiras semanas, e o resultado mais estável vem depois da fase de testes e ajustes. O prazo exato depende do negócio, da oferta, do público e do investimento, por isso acompanhamos os dados desde o primeiro dia.
+- Como eu sei se os anúncios estão dando resultado? Pelo relatório: você vê quanto investiu, quantos contatos chegaram e quanto custou cada um. Com o CRM, dá para ver também quantos viraram agendamento ou venda. Antes de anunciar, instalamos as ferramentas de medição no seu site e nos anúncios para saber de onde veio cada contato.
+- Vocês também fazem postagens no Instagram? Não. Nosso foco é o tráfego pago, não a gestão de redes sociais: não postamos no seu perfil nem respondemos comentários. Orientamos a criação dos materiais dos anúncios e podemos cuidar de páginas, rastreamento, CRM e automações para apoiar as campanhas.
+- Meu negócio precisa ter um site para anunciar? Não necessariamente. Muitos anúncios levam a pessoa direto para o WhatsApp. Quando a oferta precisa de mais explicação, uma landing page ajuda a converter, e nós podemos criá-la. Avaliamos qual estrutura faz mais sentido para sua empresa.
+- Qual é a diferença entre Meta Ads e Google Ads? O Meta Ads mostra seu anúncio no Instagram e no Facebook para pessoas com o perfil do seu cliente, mesmo antes de elas procurarem. O Google Ads coloca sua empresa em destaque para quem já está pesquisando o que você oferece. Muitas vezes os dois funcionam juntos: o Meta desperta a demanda e o Google atende quem já está procurando.
+- Tráfego pago funciona para clínicas e consultórios? Sim. Clínicas e consultórios estão entre os negócios que mais se beneficiam de anúncios, porque o paciente procura atendimento perto de casa e costuma marcar pelo WhatsApp. Explicamos como funciona na página de tráfego pago para clínicas.
+- Vocês atendem negócios de outras cidades? Sim. O atendimento é online, para negócios locais e lojas virtuais de todo o Brasil. A estratégia é montada de acordo com a região, o mercado e os objetivos de cada empresa.
+- Quanto custa o serviço de gestão de tráfego pago? O valor da gestão depende de quantas plataformas e campanhas o projeto tem e de serviços extras, como landing page e CRM. Por isso a proposta é feita sob medida, depois de uma conversa rápida sobre o seu negócio. Entre em contato para conversarmos.
+
+## Perguntas frequentes de clínicas
+
+- Tráfego pago funciona para clínica odontológica? Sim. O paciente procura dentista perto de casa, pesquisa no Google e no Instagram antes de escolher e costuma marcar pelo WhatsApp, e os anúncios estão exatamente nesses lugares. Os melhores resultados aparecem quando o anúncio, o atendimento no WhatsApp e a agenda trabalham juntos.
+- Meta Ads ou Google Ads: qual é melhor para clínica? Depende do tratamento e da verba, e muitas vezes o ideal são os dois juntos. O Google Ads é mais direto para quem já pesquisa um tratamento, como implante ou clareamento. O Meta Ads é forte para apresentar a clínica na região, divulgar tratamentos estéticos e chamar para avaliações.
+- Posso anunciar fotos de antes e depois? Pode, seguindo as regras do seu conselho. Na odontologia, a Resolução CFO 196/2019 permite divulgar imagens do diagnóstico e do resultado final do tratamento. Na medicina, a Resolução CFM 2.336/2023 permite o antes e depois com finalidade educativa e autorização do paciente. Em qualquer caso, sem promessa de resultado, e sempre conferindo a norma em vigor antes de publicar.
+- Quanto investir em anúncios para uma clínica? Não existe valor fixo: depende da meta de agendamentos, da concorrência na sua cidade e do tratamento anunciado. O investimento é pago direto ao Meta e ao Google, separado da gestão. Começamos com um valor de teste e aumentamos conforme o custo por agendamento fica claro.
+- Como saber quantos pacientes vieram dos anúncios? Com medição nos anúncios e um sistema que organiza os contatos (CRM). Cada contato que chega pelo anúncio é registrado com a campanha de origem e acompanhado até a consulta e o fechamento. Assim você sabe quanto custou cada agendamento e cada paciente, e não só quantas pessoas clicaram.
+- Vocês atendem clínicas de outras cidades? Sim. O atendimento é online, para clínicas e consultórios de todo o Brasil. As campanhas são montadas para a região onde a clínica atende.
 
 ## Documentos
 
-- [Política de Privacidade](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/privacy.html)
-- [Termos de Serviço](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/terms.html)
+- [Política de Privacidade](https://trafegopagocomraquel.com.br/privacy.html)
+- [Termos de Serviço](https://trafegopagocomraquel.com.br/terms.html)
 
 ## Contato
 
 - [Instagram @raquelcfatima](https://www.instagram.com/raquelcfatima/)
-- [Formulário de contato no site](https://rakelmuz.github.io/LandingPageTrafegoRaquelC/#contato)
+- WhatsApp: +55 35 99207-2879 (https://wa.me/5535992072879)
+- E-mail: rakelmuz@gmail.com
+- [Formulário de contato no site](https://trafegopagocomraquel.com.br/#contato)
+
+Última atualização: 24 de novembro de 2026.
